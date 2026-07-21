@@ -51,11 +51,7 @@
 # len(l)
 # len(s)
 
-#4 pillars of OOPS
-#Encapsulation 
-#Abstraction
-#Inheritance
-#Polymorphism
+
 #take a string as input and 
 # print it back by removing the first and last character of the input string
 # x="thanuja"
@@ -83,5 +79,3 @@ for i in range(1,x):
     sum+=i
 print(sum)
 #another way 
-sum=0
-while 
